@@ -1,0 +1,4 @@
+CREATE TABLE STUDENT (
+id SERIAL primary key,
+name VARCHAR(50) NOT NULL,
+email VARCHAR(50) NOT NULL);
